@@ -96,8 +96,8 @@
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Data/Interfaces/IGroupItem.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Data/Nodes/Utility/RedirectNodeView.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Data/Graphs/GraphDataUtils.cs" />
-    <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Drawing/Views/Slots/BooleanSlotControlView.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/ShaderGraphNodeValidationExtension.cs" />
+    <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Drawing/Views/Slots/BooleanSlotControlView.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Data/Graphs/Vector3MaterialSlot.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Data/Interfaces/IMayRequireDepthTexture.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Generation/Targets/PreviewTarget.cs" />
@@ -216,8 +216,8 @@
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Generation/Processors/GeneratorDerivativeUtils.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Data/Nodes/GuidEncoder.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Data/Nodes/Channel/SwizzleNode.cs" />
-    <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Drawing/Inspector/PropertyDrawers/SampleTexture3DNodePropertyDrawer.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Drawing/Controllers/SGController.cs" />
+    <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Drawing/Inspector/PropertyDrawers/SampleTexture3DNodePropertyDrawer.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Data/Implementation/Edge.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Data/Nodes/NormalMapSpace.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Generation/Targets/Canvas/CanvasStructs.cs" />
@@ -451,8 +451,8 @@
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Drawing/Inspector/PropertyDrawers/TextPropertyDrawer.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Serialization/JsonObject.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Data/Graphs/IMaterialGraphAsset.cs" />
-    <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Serialization/RefValueEnumerable.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Data/Graphs/GradientInputMaterialSlot.cs" />
+    <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Serialization/RefValueEnumerable.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Importers/RenderPipelineChangedCallback.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Generation/Contexts/TargetActiveBlockContext.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Data/Util/PrecisionUtil.cs" />
@@ -498,8 +498,8 @@
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Data/Interfaces/IMayRequirePosition.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Data/Nodes/Math/Advanced/ReciprocalSquareRootNode.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Serialization/FakeJsonObject.cs" />
-    <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Data/Nodes/Math/Round/CeilingNode.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Drawing/Controls/ButtonControl.cs" />
+    <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Data/Nodes/Math/Round/CeilingNode.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Util/ValueUtilities.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Data/Nodes/Input/Texture/SampleCubemapNode.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Generation/Enumerations/ZWrite.cs" />
@@ -571,8 +571,8 @@
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Data/Nodes/Input/Texture/Texture3DAssetNode.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Generation/Contexts/TargetPropertyGUIContext.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Data/Nodes/Math/Trigonometry/ArccosineNode.cs" />
-    <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Drawing/Colors/CustomColorData.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Data/Attributes/BuiltinKeywordAttribute.cs" />
+    <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Drawing/Colors/CustomColorData.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Drawing/EdgeConnectorListener.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Data/ContextData.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@f80b792d4861/Editor/Data/Graphs/GraphDataReadOnly.cs" />
