@@ -84,8 +84,8 @@
     <Compile Include="Library/PackageCache/com.unity.multiplayer.center@f01f4ba8d00a/Editor/Questionnaire/Logic.cs" />
     <Compile Include="Library/PackageCache/com.unity.multiplayer.center@f01f4ba8d00a/Editor/Recommendations/PreReleaseHandling.cs" />
     <Compile Include="Library/PackageCache/com.unity.multiplayer.center@f01f4ba8d00a/Editor/AssemblyInfo.cs" />
-    <Compile Include="Library/PackageCache/com.unity.multiplayer.center@f01f4ba8d00a/Editor/MultiplayerCenterWindow/TabGroup.cs" />
     <Compile Include="Library/PackageCache/com.unity.multiplayer.center@f01f4ba8d00a/Editor/Questionnaire/PresetData.cs" />
+    <Compile Include="Library/PackageCache/com.unity.multiplayer.center@f01f4ba8d00a/Editor/MultiplayerCenterWindow/TabGroup.cs" />
     <Compile Include="Library/PackageCache/com.unity.multiplayer.center@f01f4ba8d00a/Editor/Analytics/MultiplayerCenterAnalyticsFactory.cs" />
     <Compile Include="Library/PackageCache/com.unity.multiplayer.center@f01f4ba8d00a/Editor/Questionnaire/QuestionnaireEditor.cs" />
     <Compile Include="Library/PackageCache/com.unity.multiplayer.center@f01f4ba8d00a/Editor/Recommendations/RecommendationType.cs" />

@@ -85,8 +85,8 @@
     <Compile Include="Library/PackageCache/com.unity.test-framework@0b7a23ab2e1d/UnityEngine.TestRunner/Utils/AssemblyProvider/AssemblyLoadProxy.cs" />
     <Compile Include="Library/PackageCache/com.unity.test-framework@0b7a23ab2e1d/UnityEngine.TestRunner/NUnitExtensions/Attributes/UnityCombinatorialStrategy.cs" />
     <Compile Include="Library/PackageCache/com.unity.test-framework@0b7a23ab2e1d/UnityEngine.TestRunner/UnityTestProtocol/MessageForRetryRepeat.cs" />
-    <Compile Include="Library/PackageCache/com.unity.test-framework@0b7a23ab2e1d/UnityEngine.TestRunner/NUnitExtensions/ActionDelegator.cs" />
     <Compile Include="Library/PackageCache/com.unity.test-framework@0b7a23ab2e1d/UnityEngine.TestRunner/NUnitExtensions/Attributes/ParametrizedIgnoreAttribute.cs" />
+    <Compile Include="Library/PackageCache/com.unity.test-framework@0b7a23ab2e1d/UnityEngine.TestRunner/NUnitExtensions/ActionDelegator.cs" />
     <Compile Include="Library/PackageCache/com.unity.test-framework@0b7a23ab2e1d/UnityEngine.TestRunner/NUnitExtensions/Attributes/UnityOneTimeTearDownAttribute.cs" />
     <Compile Include="Library/PackageCache/com.unity.test-framework@0b7a23ab2e1d/UnityEngine.TestRunner/NUnitExtensions/Filters/EditorOnlyFilter.cs" />
     <Compile Include="Library/PackageCache/com.unity.test-framework@0b7a23ab2e1d/UnityEngine.TestRunner/TestRunner/RuntimeTestRunnerFilter.cs" />

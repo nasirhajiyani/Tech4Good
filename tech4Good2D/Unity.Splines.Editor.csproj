@@ -99,8 +99,8 @@
     <Compile Include="Library/PackageCache/com.unity.splines@56b2023b4b9f/Editor/GUI/Editors/ReadOnlyField.cs" />
     <Compile Include="Library/PackageCache/com.unity.splines@56b2023b4b9f/Editor/GUI/ToolbarsOverlays/HandleRotationDropdown.cs" />
     <Compile Include="Library/PackageCache/com.unity.splines@56b2023b4b9f/Editor/GUI/ToolbarsOverlays/Separator.cs" />
-    <Compile Include="Library/PackageCache/com.unity.splines@56b2023b4b9f/Editor/GUI/SplineIndexPropertyDrawer.cs" />
     <Compile Include="Library/PackageCache/com.unity.splines@56b2023b4b9f/Editor/Controls/KnotHandles.cs" />
+    <Compile Include="Library/PackageCache/com.unity.splines@56b2023b4b9f/Editor/GUI/SplineIndexPropertyDrawer.cs" />
     <Compile Include="Library/PackageCache/com.unity.splines@56b2023b4b9f/Editor/GUI/ToolbarsOverlays/SplineInspectorOverlay.cs" />
     <Compile Include="Library/PackageCache/com.unity.splines@56b2023b4b9f/Editor/GUI/SplineDataConversionWindow.cs" />
     <Compile Include="Library/PackageCache/com.unity.splines@56b2023b4b9f/Editor/GUI/EditorSplineGizmos.cs" />

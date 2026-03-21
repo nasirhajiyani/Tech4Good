@@ -69,8 +69,8 @@
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Editor/Utility/GameViewComposerGuides.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Editor/SaveDuringPlay/SaveDuringPlay.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Editor/Upgrader/UpgradeObjectToCm3.Data.cs" />
-    <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Editor/Editors/CinemachineMixingCameraEditor.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Editor/Editors/CinemachineThirdPersonFollowEditor.cs" />
+    <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Editor/Editors/CinemachineMixingCameraEditor.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Editor/Editors/CinemachineHardLookAtEditor.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Editor/Windows/CinemachineSettings.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Editor/PropertyDrawers/SplineAutoDollyPropertyDrawer.cs" />
@@ -82,8 +82,8 @@
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Editor/Obsolete/ObsoletePropertyDrawers.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Editor/Obsolete/CinemachineTool.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Editor/Utility/ScriptableObjectUtility.cs" />
-    <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Editor/PropertyDrawers/EmbeddedAssetPropertyDrawer.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs" />
+    <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Editor/PropertyDrawers/EmbeddedAssetPropertyDrawer.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Editor/Impulse/CinemachineCollisionImpulseSourceEditor.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Editor/Utility/CinemachinePhysicalLensPalette.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Editor/PostProcessing/CinemachineVolumeSettingsEditor.cs" />
@@ -102,8 +102,8 @@
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Editor/Samples/SampleDependencyImporter.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Editor/Utility/CmCameraInspectorUtility.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Editor/Editors/CinemachineBrainEventsEditor.cs" />
-    <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Editor/Timeline/CinemachineTrackEditor.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Editor/PropertyDrawers/HideFoldoutPropertyDrawer.cs" />
+    <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Editor/Timeline/CinemachineTrackEditor.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Editor/Windows/CinemachineDeoccluderPrefs.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Editor/Obsolete/CinemachineTransposerEditor.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Editor/PropertyDrawers/HideIfNoComponentPropertyDrawer.cs" />

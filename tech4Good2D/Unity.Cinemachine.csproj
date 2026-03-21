@@ -97,8 +97,8 @@
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Core/CinemachineExtension.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Core/UpdateTracker.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Deprecated/CinemachineOrbitalTransposer.cs" />
-    <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Deprecated/CinemachinePath.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Core/TargetTracking.cs" />
+    <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Deprecated/CinemachinePath.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Core/DeltaTimeScaleProcessor.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Core/VirtualCameraRegistry.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Timeline/CinemachinePlayableMixer.cs" />
@@ -108,8 +108,8 @@
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Deprecated/CinemachineInputProvider.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Components/CinemachinePositionComposer.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Core/ConfinerOven.cs" />
-    <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Core/SignalSourceAsset.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Behaviours/CinemachineFollowZoom.cs" />
+    <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Core/SignalSourceAsset.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Deprecated/CinemachineGroupComposer.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Core/NoiseSettings.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Core/BlendManager.cs" />
@@ -123,8 +123,8 @@
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Behaviours/CinemachineStoryboard.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Deprecated/CinemachineSmoothPath.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Deprecated/CinemachinePathBase.cs" />
-    <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Core/LookaheadSettings.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Components/CinemachineFollow.cs" />
+    <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Core/LookaheadSettings.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Deprecated/LegacyLensSettings.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/PostProcessing/CinemachinePostProcessing.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Behaviours/CinemachineCamera.cs" />
@@ -144,9 +144,9 @@
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Behaviours/CinemachineDecollider.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Impulse/CinemachineImpulseManager.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Components/CinemachinePanTilt.cs" />
+    <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Components/CinemachineSplineDolly.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Core/CameraBlendStack.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Behaviours/CinemachineFreeLookModifier.cs" />
-    <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Components/CinemachineSplineDolly.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Helpers/CinemachineBrainEvents.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Timeline/CinemachineTrack.cs" />
     <Compile Include="Library/PackageCache/com.unity.cinemachine@285f38545487/Runtime/Core/SplineHelpers.cs" />

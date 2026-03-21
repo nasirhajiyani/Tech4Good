@@ -88,8 +88,8 @@
     <Compile Include="Library/PackageCache/com.unity.test-framework@0b7a23ab2e1d/UnityEditor.TestRunner/GUI/TestRunnerGUI.cs" />
     <Compile Include="Library/PackageCache/com.unity.test-framework@0b7a23ab2e1d/UnityEditor.TestRunner/TestBuildAssemblyFilter.cs" />
     <Compile Include="Library/PackageCache/com.unity.test-framework@0b7a23ab2e1d/UnityEditor.TestRunner/NUnitExtension/Attributes/TestPlayerBuildModifierAttribute.cs" />
-    <Compile Include="Library/PackageCache/com.unity.test-framework@0b7a23ab2e1d/UnityEditor.TestRunner/TestRun/Tasks/LegacyPlayerRunTask.cs" />
     <Compile Include="Library/PackageCache/com.unity.test-framework@0b7a23ab2e1d/UnityEditor.TestRunner/Api/ExecutionSettings.cs" />
+    <Compile Include="Library/PackageCache/com.unity.test-framework@0b7a23ab2e1d/UnityEditor.TestRunner/TestRun/Tasks/LegacyPlayerRunTask.cs" />
     <Compile Include="Library/PackageCache/com.unity.test-framework@0b7a23ab2e1d/UnityEditor.TestRunner/Api/Analytics/RunFinishedData.cs" />
     <Compile Include="Library/PackageCache/com.unity.test-framework@0b7a23ab2e1d/UnityEditor.TestRunner/TestRunner/Utils/TestListCacheData.cs" />
     <Compile Include="Library/PackageCache/com.unity.test-framework@0b7a23ab2e1d/UnityEditor.TestRunner/GUI/Controls/SelectableItemContent.cs" />
@@ -270,8 +270,8 @@
     <Compile Include="Library/PackageCache/com.unity.test-framework@0b7a23ab2e1d/UnityEditor.TestRunner/Api/TestAdaptor.cs" />
     <Compile Include="Library/PackageCache/com.unity.test-framework@0b7a23ab2e1d/UnityEditor.TestRunner/TestLaunchers/Helpers/PrebuildSetupWithJobDataAttributeFinder.cs" />
     <Compile Include="Library/PackageCache/com.unity.test-framework@0b7a23ab2e1d/UnityEditor.TestRunner/TestRun/ITestJobDataHolder.cs" />
-    <Compile Include="Library/PackageCache/com.unity.test-framework@0b7a23ab2e1d/UnityEditor.TestRunner/UnityTestProtocol/Messages/PlayerSettingsMessage.cs" />
     <Compile Include="Library/PackageCache/com.unity.test-framework@0b7a23ab2e1d/UnityEditor.TestRunner/TestLaunchers/Helpers/DelayedCallback.cs" />
+    <Compile Include="Library/PackageCache/com.unity.test-framework@0b7a23ab2e1d/UnityEditor.TestRunner/UnityTestProtocol/Messages/PlayerSettingsMessage.cs" />
     <Compile Include="Library/PackageCache/com.unity.test-framework@0b7a23ab2e1d/UnityEditor.TestRunner/UnityTestProtocol/Data/BuildSettings.cs" />
     <Compile Include="Library/PackageCache/com.unity.test-framework@0b7a23ab2e1d/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/StadiaPlatformSetup.cs" />
     <Compile Include="Library/PackageCache/com.unity.test-framework@0b7a23ab2e1d/UnityEditor.TestRunner/TestLaunchers/TestLauncherBase.cs" />
