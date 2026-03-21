@@ -2478,3 +2478,68 @@ Memory consumption went from 101.4 MB to 100.4 MB.
 Total: 9.860500 ms (FindLiveObjects: 0.225458 ms CreateObjectMapping: 0.140292 ms MarkObjects: 8.738292 ms  DeleteObjects: 0.756000 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 2951.576601 seconds.
+  path: Assets/Scripts/PlayerControl.cs
+  artifactKey: Guid(2173716442ec5487a92748d95b7ba830) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/PlayerControl.cs using Guid(2173716442ec5487a92748d95b7ba830) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'c63f9436706871526394769541a4df23') in 0.071482417 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Test_Input.unity
+  artifactKey: Guid(ce8d1b3e1aab04468aee8e2528ea6762) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Test_Input.unity using Guid(ce8d1b3e1aab04468aee8e2528ea6762) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '9aab498640de88aa98813744b863c18c') in 0.003620542 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.675414 seconds.
+  path: Assets/Scripts/Test Emmision.mat
+  artifactKey: Guid(7a12faac80f2d463b8bcf6608936e85d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Test Emmision.mat using Guid(7a12faac80f2d463b8bcf6608936e85d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)xcrun: error: sh -c '/Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -find metal-objdump 2> /dev/null' failed with exit code 17664: (null) (errno=Invalid argument)
+xcrun: error: unable to find utility "metal-objdump", not a developer tool or in PATH
+error: error: cannot execute tool 'metal' due to missing Metal Toolchain; use: xcodebuild -downloadComponent MetalToolchain
+error: error: cannot execute tool 'metal' due to missing Metal Toolchain; use: xcodebuild -downloadComponent MetalToolchain
+error: error: cannot execute tool 'metal' due to missing Metal Toolchain; use: xcodebuild -downloadComponent MetalToolchain
+error: error: cannot execute tool 'metal' due to missing Metal Toolchain; use: xcodebuild -downloadComponent MetalToolchain
+error: error: cannot execute tool 'metal' due to missing Metal Toolchain; use: xcodebuild -downloadComponent MetalToolchain
+error: error: cannot execute tool 'metal' due to missing Metal Toolchain; use: xcodebuild -downloadComponent MetalToolchain
+ -> (artifact id: 'c1c2407fb7d4454cedf8219897430b72') in 1.027469792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 68.148558 seconds.
+  path: Packages/com.unity.purchasing/Icons/LinkBlack.png
+  artifactKey: Guid(33d3dd2c39dfd49a3b2d36b20225624a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.purchasing/Icons/LinkBlack.png using Guid(33d3dd2c39dfd49a3b2d36b20225624a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b545352a35c40fce4fdfb00f17d77dd5') in 0.014083791 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004807 seconds.
+  path: Packages/com.unity.purchasing/Icons/LinkWhite.png
+  artifactKey: Guid(e679a29ca22bc4fa0bd848bd79a42b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.purchasing/Icons/LinkWhite.png using Guid(e679a29ca22bc4fa0bd848bd79a42b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f5be7d18c1c6eb965b8f01047080fc2d') in 0.003219542 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 288.670481 seconds.
+  path: Assets/Scripts/Test Emmision.mat
+  artifactKey: Guid(7a12faac80f2d463b8bcf6608936e85d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Test Emmision.mat using Guid(7a12faac80f2d463b8bcf6608936e85d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)error: error: cannot execute tool 'metal' due to missing Metal Toolchain; use: xcodebuild -downloadComponent MetalToolchain
+ -> (artifact id: 'efac8c102cc6924a6ad9fbae0e005b6c') in 0.177150666 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.778382 seconds.
+  path: Assets/Scripts/Test Emmision.mat
+  artifactKey: Guid(7a12faac80f2d463b8bcf6608936e85d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/Test Emmision.mat using Guid(7a12faac80f2d463b8bcf6608936e85d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '113715167cb643cf30e48b28663b1c01') in 0.019338208 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+

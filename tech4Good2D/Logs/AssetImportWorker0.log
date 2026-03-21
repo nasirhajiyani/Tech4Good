@@ -3028,3 +3028,39 @@ Memory consumption went from 101.7 MB to 100.9 MB.
 Total: 9.281375 ms (FindLiveObjects: 0.192417 ms CreateObjectMapping: 0.126791 ms MarkObjects: 8.354084 ms  DeleteObjects: 0.608000 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 5423.137756 seconds.
+  path: Assets/Player_Input.inputactions
+  artifactKey: Guid(af30e75138bc347f08f1808e4d49b1b1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Player_Input.inputactions using Guid(af30e75138bc347f08f1808e4d49b1b1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '66e337443ae5ec69caeb009c177840bc') in 0.163860459 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.559508 seconds.
+  path: Assets/Scripts/Test Emmision.mat
+  artifactKey: Guid(7a12faac80f2d463b8bcf6608936e85d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/Test Emmision.mat using Guid(7a12faac80f2d463b8bcf6608936e85d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter)xcrun: error: sh -c '/Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -find metal-objdump 2> /dev/null' failed with exit code 17664: (null) (errno=Invalid argument)
+xcrun: error: unable to find utility "metal-objdump", not a developer tool or in PATH
+error: error: cannot execute tool 'metal' due to missing Metal Toolchain; use: xcodebuild -downloadComponent MetalToolchain
+error: error: cannot execute tool 'metal' due to missing Metal Toolchain; use: xcodebuild -downloadComponent MetalToolchain
+ -> (artifact id: '04821b1fc7ffb2b00162f4f7cc4fc826') in 0.603952333 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.621079 seconds.
+  path: Packages/com.unity.purchasing/Icons/UnityEngine.Purchasing.IAPButtonIcon.png
+  artifactKey: Guid(55e457740fe60405dac77af143e1a867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.purchasing/Icons/UnityEngine.Purchasing.IAPButtonIcon.png using Guid(55e457740fe60405dac77af143e1a867) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1f043f911afbcbd8de1d38317f501e38') in 0.02693925 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 289.604192 seconds.
+  path: Assets/Test_Input.unity
+  artifactKey: Guid(ce8d1b3e1aab04468aee8e2528ea6762) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Test_Input.unity using Guid(ce8d1b3e1aab04468aee8e2528ea6762) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ece8ff35d124639c96a568b072b040d7') in 0.011457625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
